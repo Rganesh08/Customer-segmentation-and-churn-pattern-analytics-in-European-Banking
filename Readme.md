@@ -71,3 +71,5 @@ Resolve complaint-handling bottlenecks and track satisfaction post-resolution.
 Design loyalty or care programs for Senior and German customers.
 Improve first-year onboarding and customer education.
 Personalize offers based on gender and product portfolio.
+
+https://churn-pattern-analytics.streamlit.app/
